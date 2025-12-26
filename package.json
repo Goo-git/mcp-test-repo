@@ -1,0 +1,23 @@
+{
+  "name": "mcp-test-repo",
+  "version": "1.0.0",
+  "description": "MCP 测试仓库 - 用于演示 GitHub MCP 工具的使用",
+  "main": "src/hello.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/hello.js",
+    "test": "echo \"Test passed!\""
+  },
+  "keywords": [
+    "mcp",
+    "github",
+    "test",
+    "demo"
+  ],
+  "author": "MCP GitHub Tools",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Goo-git/mcp-test-repo.git"
+  }
+}
